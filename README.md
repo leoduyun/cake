@@ -29,10 +29,10 @@ You can now either use your machine's webserver to view the default home page, o
 up the built-in webserver with:
 
 ```bash
-bin/cake server -p 8765
+bin/cake server -p 8080
 ```
 
-Then visit `http://localhost:8765` to see the welcome page.
+Then visit `http://localhost:8080` to see the welcome page.
 
 ## Update
 
